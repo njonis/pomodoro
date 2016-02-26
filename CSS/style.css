@@ -1,0 +1,20 @@
+.aFaire{
+    list-style-type:none;
+    padding-left: 0px;
+}
+
+.aFaire li{
+    height: 3em;
+}
+
+.bordure{
+    border: solid 1px grey;
+}
+
+.boutonFini{
+    margin-top: 2em;
+}
+
+.boutonFini button{
+    margin-right: 1em;
+}
